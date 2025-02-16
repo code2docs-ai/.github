@@ -1,5 +1,7 @@
 # Code2Docs.ai
 
+![](./code2docs_publish.png)
+
 [English](README.md) | 简体中文
 
 ## Code2Docs.ai 概述
